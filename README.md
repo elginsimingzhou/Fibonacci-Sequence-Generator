@@ -1,2 +1,2 @@
-# Self-initiated-Projects
-Just for fun projects here!
+# Fibonacci Sequence Generator
+First project!
